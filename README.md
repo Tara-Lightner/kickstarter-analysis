@@ -7,7 +7,7 @@ A client is interested in learning how different campaigns fared in relation to 
 
 ### Outcomes Based on Launch Date
 "The overview of the analysis is well described with screenshots"
-![alt](C:\Users\tligh\Documents\MSU\Analysis Projects\Week_1_Challange\resources\Outcomes_vs_Goals.png)
+![alt](https://github.com/Tara-Lightner/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
 "The overview of the analysis is well described with screenshots"
